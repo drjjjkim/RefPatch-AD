@@ -1,0 +1,3647 @@
+[
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 338.2119140587747
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 135.96592284739017
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 141.68511889874935
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 199.46431508287787
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 145.16909793019295
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 314.5283870398998
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 195.63587568700314
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 301.35531816631556
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 138.79079977050424
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 351.0641250759363
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 138.15818540751934
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 140.50781214609742
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 196.2506528943777
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 144.7030887939036
+  },
+  {
+    "dataset": "MVTec",
+    "category": "bottle",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 293.40508999302983
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 228.3659540116787
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 168.5281740501523
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 326.59682584926486
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 233.60648890957236
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 323.22185300290585
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 163.67865214124322
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 390.99076110869646
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 171.63314297795296
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 171.4437543414533
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 225.1549679785967
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 166.29144828766584
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 318.44059145078063
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 223.0638680048287
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 315.82047790288925
+  },
+  {
+    "dataset": "MVTec",
+    "category": "cable",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 164.62750267237425
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 160.74814507737756
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 175.918061286211
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 109.74413668736815
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 224.3784060701728
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 108.78215730190277
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 112.19024006277323
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 154.82242684811354
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 114.5403441041708
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 173.20248996838927
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 177.81500099226832
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 174.4408723898232
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 109.21942302957177
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 236.6605456918478
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 108.85585425421596
+  },
+  {
+    "dataset": "MVTec",
+    "category": "capsule",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 113.75078558921814
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 374.7699083760381
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 158.5647310130298
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 162.2740630991757
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 225.55049322545528
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 161.96131194010377
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 311.8877150118351
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 222.4077363498509
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 310.1569009013474
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 160.81241611391306
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 371.37256981804967
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 158.17935997620225
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 164.5051073282957
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 219.13071675226092
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 161.28721181303263
+  },
+  {
+    "dataset": "MVTec",
+    "category": "carpet",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 307.34592536464334
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 187.66788579523563
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 144.51425429433584
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 289.5993799902499
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 189.51449496671557
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 291.581807192415
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 140.38934977725148
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 328.35109578445554
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 141.61209063604474
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 144.01705702766776
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 187.51457333564758
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 142.89704198017716
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 287.12617699056864
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 160.61855806037784
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 287.51644771546125
+  },
+  {
+    "dataset": "MVTec",
+    "category": "grid",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 141.1300548352301
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 189.1700509004295
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 203.82348913699389
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 122.48331913724542
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 263.26972991228104
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 122.36348306760192
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 124.72144002094865
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 181.45645270124078
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 124.89351211115718
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 195.9220552816987
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 184.36918826773763
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 196.6355061158538
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 121.29956996068358
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 263.54774413630366
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 121.58231111243367
+  },
+  {
+    "dataset": "MVTec",
+    "category": "hazelnut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 124.22514194622636
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 387.11563777178526
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 157.7598382718861
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 159.41597800701857
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 203.87784112244844
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 162.24127123132348
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 312.2023921459913
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 224.19496113434434
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 306.7670613527298
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 158.85210083797574
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 367.99325281754136
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 161.10802302137017
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 160.1419267244637
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 223.2042672112584
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 160.44609900563955
+  },
+  {
+    "dataset": "MVTec",
+    "category": "leather",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 314.4276048988104
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 165.6549940817058
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 122.26704321801662
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 274.5515201240778
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 166.66561039164662
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 272.2442760132253
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 118.24876116588712
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 320.2930213883519
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 119.04949275776744
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 122.34959285706282
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 169.69386767596006
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 123.96282702684402
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 269.54986434429884
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 166.48932779207826
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 270.6116661429405
+  },
+  {
+    "dataset": "MVTec",
+    "category": "metal_nut",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 118.68685716763139
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 152.8452653437853
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 182.27135296911
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 97.02760307118297
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 232.04774083569646
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 96.80957393720746
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 98.44755195081234
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 140.4224601574242
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 99.15523324161768
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 184.65154618024826
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 157.27754402905703
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 177.18342505395412
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 96.17352997884154
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 241.87460588291287
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 95.96027014777064
+  },
+  {
+    "dataset": "MVTec",
+    "category": "pill",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 99.15275871753693
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 217.1428152360022
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 97.22211165353656
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 101.29243973642588
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 141.62816014140844
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 101.35755687952042
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 160.54046992212534
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 155.31376376748085
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 162.59950678795576
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 97.11365308612585
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 215.28368815779686
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 98.2300448231399
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 101.34902503341436
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 141.73700800165534
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 99.78462476283312
+  },
+  {
+    "dataset": "MVTec",
+    "category": "screw",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 162.21635323017836
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 197.08719616755843
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 137.5773032195866
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 281.642128713429
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 199.58767760545015
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 284.15952529758215
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 132.97545071691275
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 335.4913517832756
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 133.3290203474462
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 139.57978086546063
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 191.7260279878974
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 136.0496273264289
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 283.11281790956855
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 172.8449040092528
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 283.38030679151416
+  },
+  {
+    "dataset": "MVTec",
+    "category": "tile",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 132.90426786988974
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 189.81591193005443
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 199.03179025277495
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 124.09323081374168
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 260.1381279528141
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 122.89058696478605
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 125.47022709622979
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 182.2086195461452
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 125.7461542263627
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 197.065947111696
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 180.95503002405167
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 195.85468899458647
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 123.7216992303729
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 260.65691374242306
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 120.90944685041904
+  },
+  {
+    "dataset": "MVTec",
+    "category": "toothbrush",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 124.05080813914537
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 375.9564748033881
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 159.68226408585906
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 163.70393289253116
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 215.04682302474976
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 165.32285697758198
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 311.05840019881725
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 211.21475426480174
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 315.0879400782287
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 161.50991013273597
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 377.64697475358844
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 159.85075803473592
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 163.47594279795885
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 223.7721560522914
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 163.69790397584438
+  },
+  {
+    "dataset": "MVTec",
+    "category": "transistor",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 310.4758346453309
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 227.02614916488528
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 163.99631602689624
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 315.9263632260263
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 230.0380216911435
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 311.14361761137843
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 161.28051606938243
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 366.6702061891556
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 160.9122809022665
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 163.17191114649177
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 217.5210784189403
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 166.22832184657454
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 314.42953599616885
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 231.00190795958042
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 309.2342736199498
+  },
+  {
+    "dataset": "MVTec",
+    "category": "wood",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 163.0221582017839
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 197.82226160168648
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 287.69362485036254
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 139.7226587869227
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 337.0287660509348
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 138.66995694115758
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 139.82042390853167
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 177.43987683206797
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 143.63979967311025
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 285.13201512396336
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 187.82372819259763
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 294.6021151728928
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 140.24639269337058
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 338.5042049922049
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 139.14945535361767
+  },
+  {
+    "dataset": "MVTec",
+    "category": "zipper",
+    "query": "q000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 142.12762005627155
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 290.59254424646497
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 126.51184294372797
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 127.11001373827457
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 171.45945876836777
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 133.43139505013824
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 227.9933849349618
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 174.45359285920858
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 226.89944179728627
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 129.2911972850561
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 281.75747906789184
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 126.42136914655566
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 130.4642572067678
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 185.54293224588037
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 128.9160568267107
+  },
+  {
+    "dataset": "VisA",
+    "category": "candle",
+    "query": "q0000",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 233.35534380748868
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 237.9011707380414
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 184.75445033982396
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 384.0962452813983
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 236.66945425793529
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 375.91333594173193
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 182.89043800905347
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 430.30709913000464
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 184.66116022318602
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 188.6299541220069
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 240.92097394168377
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 188.8007279485464
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 381.2716049142182
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 217.89154969155788
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 376.1665071360767
+  },
+  {
+    "dataset": "VisA",
+    "category": "capsules",
+    "query": "q0200",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 183.65147802978754
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 148.4125880524516
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 177.64943791553378
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 110.39442801848054
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 188.78239765763283
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 109.21465465798974
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 114.56688772886992
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 152.1388478577137
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 114.79399492964149
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 178.04908426478505
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 160.08323058485985
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 179.1271371766925
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 110.72858795523643
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 233.05133683606982
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 110.88031902909279
+  },
+  {
+    "dataset": "VisA",
+    "category": "cashew",
+    "query": "q0360",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 114.10097079351544
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 260.26382809504867
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 124.96906844899058
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 125.64441235736012
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 177.37229866907
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 125.83423312753439
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 213.86622916907072
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 177.92009329423308
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 214.27906397730112
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 121.79462006315589
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 271.95991575717926
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 121.05366075411439
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 125.41461735963821
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 183.2268969155848
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 125.23577781394124
+  },
+  {
+    "dataset": "VisA",
+    "category": "chewinggum",
+    "query": "q0510",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 217.22479024901986
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 197.0985122025013
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 146.3809353299439
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 260.2665079757571
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 198.05753743276
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 261.0541139729321
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 139.38676426187158
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 316.5505640208721
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 140.64096938818693
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 144.44151194766164
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 198.92306486144662
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 147.29014784097672
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 257.70708080381155
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 194.35970997437835
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 258.29549925401807
+  },
+  {
+    "dataset": "VisA",
+    "category": "fryum",
+    "query": "q0660",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 143.74964823946357
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 215.04944283515215
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 320.63137786462903
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 159.02553731575608
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 364.18832279741764
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 163.41763082891703
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 164.18370185419917
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 217.0869610272348
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 163.7363089248538
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 318.47119331359863
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 218.19011215120554
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 319.0209260210395
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 161.39411088079214
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 363.5780708864331
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 159.43137696012855
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni1",
+    "query": "q0810",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 164.28257478401065
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 390.80886682495475
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 169.97059900313616
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 172.63955576345325
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 223.89484476298094
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 172.7834646590054
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 344.63214688003063
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 229.92606461048126
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 346.2478728033602
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 167.88769699633121
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 402.8327548876405
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 167.64766024425626
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 176.8085202202201
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 220.8905597217381
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 176.10778007656336
+  },
+  {
+    "dataset": "VisA",
+    "category": "macaroni2",
+    "query": "q1010",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 345.6060062162578
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 195.3152227215469
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 138.94292106851935
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 247.1765810623765
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 190.31392876058817
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 253.48683400079608
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 138.73442262411118
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 311.4157351665199
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 136.2258573062718
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 140.2405370026827
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 195.5437120050192
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 138.69908405467868
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 238.42853913083673
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 184.28781908005476
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 242.53404419869184
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb1",
+    "query": "q1210",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 136.9613748975098
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 196.98829017579556
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 247.98835115507245
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 135.1951132528484
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 293.9274669624865
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 135.49093715846539
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 138.52619705721736
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 196.11964095383883
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 138.9532908797264
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 243.13118821009994
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 189.29489888250828
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 243.0802509188652
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 140.37654921412468
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 302.88744531571865
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 137.08408502861857
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb2",
+    "query": "q1410",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 138.52699287235737
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 387.36187294125557
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 170.64761742949486
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 179.65040728449821
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 224.53318303450942
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 181.2166259624064
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 343.6704841442406
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 227.16767387464643
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 344.05491314828396
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 178.53411519899964
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 388.5526368394494
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 171.64970701560378
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 180.52248330786824
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 227.0168480463326
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 174.4862999767065
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb3",
+    "query": "q1610",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 349.88819994032383
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 156.76710801199079
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 133.52918904274702
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 234.3536987900734
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 181.88811279833317
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 238.76889888197184
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 129.28734300658107
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 291.9420008547604
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 128.6664381623268
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 134.0539250522852
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 190.06035709753633
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 134.1193071566522
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 232.85939823836088
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 185.6922609731555
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 231.74009704962373
+  },
+  {
+    "dataset": "VisA",
+    "category": "pcb4",
+    "query": "q1811",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 128.49994702264667
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "mean44812_identity",
+    "repeat": 0,
+    "position": 0,
+    "online_cached_mask_ms": 179.10626297816634
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "score_mean",
+    "repeat": 0,
+    "position": 1,
+    "online_cached_mask_ms": 188.86397499591112
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "last_identity",
+    "repeat": 0,
+    "position": 2,
+    "online_cached_mask_ms": 114.09865785390139
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "score_mean",
+    "repeat": 1,
+    "position": 0,
+    "online_cached_mask_ms": 239.99521601945162
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "last_identity",
+    "repeat": 1,
+    "position": 1,
+    "online_cached_mask_ms": 116.35817866772413
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "mean44812_identity",
+    "repeat": 1,
+    "position": 2,
+    "online_cached_mask_ms": 122.06137320026755
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "last_identity",
+    "repeat": 2,
+    "position": 0,
+    "online_cached_mask_ms": 168.43195213004947
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "mean44812_identity",
+    "repeat": 2,
+    "position": 1,
+    "online_cached_mask_ms": 117.42229200899601
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "score_mean",
+    "repeat": 2,
+    "position": 2,
+    "online_cached_mask_ms": 188.26326820999384
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "mean44812_identity",
+    "repeat": 3,
+    "position": 0,
+    "online_cached_mask_ms": 172.6683177985251
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "score_mean",
+    "repeat": 3,
+    "position": 1,
+    "online_cached_mask_ms": 193.8683921471238
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "last_identity",
+    "repeat": 3,
+    "position": 2,
+    "online_cached_mask_ms": 114.22732518985868
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "score_mean",
+    "repeat": 4,
+    "position": 0,
+    "online_cached_mask_ms": 243.72186278924346
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "last_identity",
+    "repeat": 4,
+    "position": 1,
+    "online_cached_mask_ms": 113.18220011889935
+  },
+  {
+    "dataset": "VisA",
+    "category": "pipe_fryum",
+    "query": "q2012",
+    "mode": "mean44812_identity",
+    "repeat": 4,
+    "position": 2,
+    "online_cached_mask_ms": 119.61439903825521
+  }
+]

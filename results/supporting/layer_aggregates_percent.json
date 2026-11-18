@@ -1,0 +1,398 @@
+{
+  "mvtec": {
+    "layer4_identity": {
+      "AUPRO_03": {
+        "mean_percent": 88.49993168174078,
+        "std_ddof0_percent": 0.22339879775422528,
+        "per_reference_macro_percent": [
+          88.69864203494154,
+          88.61328800202094,
+          88.18786500825982
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 95.04291087846167,
+        "std_ddof0_percent": 0.20240096483898143,
+        "per_reference_macro_percent": [
+          95.17379510649798,
+          95.1979255969303,
+          94.75701193195664
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 50.73647209822997,
+        "std_ddof0_percent": 0.4592503867448022,
+        "per_reference_macro_percent": [
+          51.360132692159475,
+          50.267632329345524,
+          50.58165127318494
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 86.53436905148007,
+        "std_ddof0_percent": 0.8974070844453338,
+        "per_reference_macro_percent": [
+          86.63340942318538,
+          85.38910598228365,
+          87.58059174897105
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 93.61635143572026,
+        "std_ddof0_percent": 0.3961013726141015,
+        "per_reference_macro_percent": [
+          93.9356507980914,
+          93.05810373149367,
+          93.85529977757568
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 91.48392403728876,
+        "std_ddof0_percent": 0.221766703165194,
+        "per_reference_macro_percent": [
+          91.32004389876528,
+          91.334286514592,
+          91.79744169850895
+        ]
+      }
+    },
+    "layer8_identity": {
+      "AUPRO_03": {
+        "mean_percent": 92.50768828256165,
+        "std_ddof0_percent": 0.06777337335222561,
+        "per_reference_macro_percent": [
+          92.59505161690507,
+          92.4981472226284,
+          92.42986600815148
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 96.28351643749868,
+        "std_ddof0_percent": 0.0822689036758498,
+        "per_reference_macro_percent": [
+          96.37455895562177,
+          96.30073036544088,
+          96.17525999143339
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 56.79896955524447,
+        "std_ddof0_percent": 0.6259348478145201,
+        "per_reference_macro_percent": [
+          57.67545613367502,
+          56.468058036424615,
+          56.25339449563378
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 95.33113419963945,
+        "std_ddof0_percent": 0.4449097442257261,
+        "per_reference_macro_percent": [
+          95.46999755129708,
+          94.73023780444035,
+          95.79316724318086
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 96.9854000419877,
+        "std_ddof0_percent": 0.33931230649760197,
+        "per_reference_macro_percent": [
+          96.85669397488026,
+          96.64940906943116,
+          97.45009708165162
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 94.87720027669837,
+        "std_ddof0_percent": 0.1918114903628016,
+        "per_reference_macro_percent": [
+          94.61028739209462,
+          95.05255666860852,
+          94.96875676939197
+        ]
+      }
+    },
+    "score_mean_48": {
+      "AUPRO_03": {
+        "mean_percent": 93.15692645257232,
+        "std_ddof0_percent": 0.11812711014023672,
+        "per_reference_macro_percent": [
+          93.2593649133202,
+          93.21999104670928,
+          92.99142339768753
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 96.72989668620579,
+        "std_ddof0_percent": 0.12702717338725547,
+        "per_reference_macro_percent": [
+          96.82957713033596,
+          96.80948486504886,
+          96.55062806323255
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 59.0664146806422,
+        "std_ddof0_percent": 0.4754608959591019,
+        "per_reference_macro_percent": [
+          59.724356467728235,
+          58.857564763551515,
+          58.61732281064682
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 94.62528306140464,
+        "std_ddof0_percent": 0.7753198462903634,
+        "per_reference_macro_percent": [
+          94.82139570415123,
+          93.59296972528982,
+          95.46148375477291
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 97.05340616166845,
+        "std_ddof0_percent": 0.3857508933417275,
+        "per_reference_macro_percent": [
+          97.02986446735574,
+          96.59317068572882,
+          97.53718333192076
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 94.51155518703295,
+        "std_ddof0_percent": 0.19070090864160325,
+        "per_reference_macro_percent": [
+          94.25778096703041,
+          94.71749442402441,
+          94.55939017004414
+        ]
+      }
+    },
+    "score_mean_412": {
+      "AUPRO_03": {
+        "mean_percent": 93.61281294798974,
+        "std_ddof0_percent": 0.11140442167791699,
+        "per_reference_macro_percent": [
+          93.72985440913891,
+          93.6456289024499,
+          93.46295553238039
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 97.28966503872986,
+        "std_ddof0_percent": 0.16649990322017758,
+        "per_reference_macro_percent": [
+          97.48672842638888,
+          97.30274805088374,
+          97.07951863891697
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 61.645404315782436,
+        "std_ddof0_percent": 0.7251453345357318,
+        "per_reference_macro_percent": [
+          62.65293458627412,
+          61.30721605039058,
+          60.97606231068264
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 96.78911290821804,
+        "std_ddof0_percent": 0.5269432789182763,
+        "per_reference_macro_percent": [
+          97.09873609295573,
+          96.04727155391174,
+          97.22133107778673
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 98.33358694547542,
+        "std_ddof0_percent": 0.3067270990464346,
+        "per_reference_macro_percent": [
+          98.54093129426845,
+          97.89994733222797,
+          98.55988220992988
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 96.37291304954245,
+        "std_ddof0_percent": 0.04860790141936323,
+        "per_reference_macro_percent": [
+          96.43129919492588,
+          96.37514266994093,
+          96.31229728376056
+        ]
+      }
+    },
+    "score_mean_812": {
+      "AUPRO_03": {
+        "mean_percent": 93.23280725561011,
+        "std_ddof0_percent": 0.06909046073443252,
+        "per_reference_macro_percent": [
+          93.3269963399722,
+          93.20821937770928,
+          93.16320604914891
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 96.8868448421184,
+        "std_ddof0_percent": 0.11143692014452904,
+        "per_reference_macro_percent": [
+          97.03639957699683,
+          96.85510602383609,
+          96.7690289255223
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 60.15607821030717,
+        "std_ddof0_percent": 0.739473401101909,
+        "per_reference_macro_percent": [
+          61.1069681842099,
+          60.057578258545696,
+          59.303688188165935
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 96.81527480935816,
+        "std_ddof0_percent": 0.416628546196599,
+        "per_reference_macro_percent": [
+          97.09767629146148,
+          96.22623919869694,
+          97.12190893791609
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 98.16769235179062,
+        "std_ddof0_percent": 0.2845866522787476,
+        "per_reference_macro_percent": [
+          98.30263126435696,
+          97.771851213736,
+          98.42859457727884
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 96.18494807035829,
+        "std_ddof0_percent": 0.23371071397835746,
+        "per_reference_macro_percent": [
+          96.49986283534456,
+          96.11439618157893,
+          95.94058519415134
+        ]
+      }
+    }
+  },
+  "visa": {
+    "layer4_identity": {
+      "AUPRO_03": {
+        "mean_percent": 84.10231446290071,
+        "std_ddof0_percent": 0.5747001030696677,
+        "per_reference_macro_percent": [
+          84.57697048691227,
+          83.29363143266669,
+          84.43634146912315
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 95.63918591689074,
+        "std_ddof0_percent": 0.10975036583879942,
+        "per_reference_macro_percent": [
+          95.76617026438915,
+          95.49840243819442,
+          95.65298504808862
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 29.83183148836821,
+        "std_ddof0_percent": 0.7269658870427417,
+        "per_reference_macro_percent": [
+          30.848622186068987,
+          29.455047724067324,
+          29.19182455496831
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 77.53552988632197,
+        "std_ddof0_percent": 1.0165835953404347,
+        "per_reference_macro_percent": [
+          77.89960671067107,
+          76.1490209020902,
+          78.55796204620464
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 79.74787474713557,
+        "std_ddof0_percent": 0.568494726160303,
+        "per_reference_macro_percent": [
+          80.12936593260721,
+          78.94424438785414,
+          80.17001392094542
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 79.71745911030337,
+        "std_ddof0_percent": 0.4359430376017952,
+        "per_reference_macro_percent": [
+          79.4898206063324,
+          79.33508784274763,
+          80.32746888183011
+        ]
+      }
+    },
+    "layer8_identity": {
+      "AUPRO_03": {
+        "mean_percent": 91.69981001335792,
+        "std_ddof0_percent": 0.43554761993726004,
+        "per_reference_macro_percent": [
+          91.52372735210598,
+          91.27667743409184,
+          92.29902525387597
+        ]
+      },
+      "P_AUROC": {
+        "mean_percent": 97.30844949619892,
+        "std_ddof0_percent": 0.08593822196258807,
+        "per_reference_macro_percent": [
+          97.37157644142054,
+          97.18694543997105,
+          97.36682660720516
+        ]
+      },
+      "P_F1max": {
+        "mean_percent": 40.21085162634294,
+        "std_ddof0_percent": 0.40677544997578596,
+        "per_reference_macro_percent": [
+          40.3437240687042,
+          39.65969065275098,
+          40.62914015757364
+        ]
+      },
+      "I_AUROC": {
+        "mean_percent": 87.43960671067109,
+        "std_ddof0_percent": 1.044310505967224,
+        "per_reference_macro_percent": [
+          87.00409240924091,
+          86.43522552255224,
+          88.87950220022
+        ]
+      },
+      "I_AP": {
+        "mean_percent": 88.45324028143774,
+        "std_ddof0_percent": 0.5975418457220845,
+        "per_reference_macro_percent": [
+          88.22258313768407,
+          87.86452173300941,
+          89.27261597361974
+        ]
+      },
+      "I_F1max": {
+        "mean_percent": 84.32561537284357,
+        "std_ddof0_percent": 1.2237136793648518,
+        "per_reference_macro_percent": [
+          84.16665639200461,
+          82.91269351462893,
+          85.89749621189718
+        ]
+      }
+    }
+  }
+}

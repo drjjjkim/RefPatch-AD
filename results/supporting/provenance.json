@@ -1,0 +1,58 @@
+{
+  "weighting": {
+    "archive_record": "mechanism/summary.json",
+    "sha256": "5fffab73917c732e056be481be956eb92042f5e700f171fd4732c558e806f545"
+  },
+  "additional_weighting": {
+    "archive_record": "new_reference/summary.json",
+    "sha256": "c5ba23da0f045e2307099e13cd6a6b335efcdd0e36b14a344983914f7e62b37d"
+  },
+  "additional_baselines": {
+    "archive_record": "new_reference_evidence_20261030/summary.json",
+    "sha256": "f8969309b428ce0d77edf17314f68c29bc7f7eb41882b4ebbe51bde4f02981f7"
+  },
+  "alf": {
+    "archive_record": "alf_evidence_20261103_190709_355/summary.json",
+    "sha256": "3a81a68598ed983296044566482a1c203aca82eacd283bc78afadd0312c374ce"
+  },
+  "mask": {
+    "archive_record": "mask_evidence_20261030/summary.json",
+    "sha256": "886f9cdef7c06e4f06d7be7cca1b0f7308cde058a9ebfa2be9d5905186f713dd"
+  },
+  "common_crop": {
+    "archive_record": "visionad_roi_evidence_20261104_212219/summary.json",
+    "sha256": "bff1861cd763d0cbf3f388104249d999e84b8b5279e688498f21350e0e083474"
+  },
+  "lnamd": {
+    "archive_record": "score_core_evidence_20261030/summary.json",
+    "sha256": "f72ebde906fbb4aebb6fd818bcd82d750ab22ec1538053006541cb2b3f7573c2"
+  },
+  "pca_mvtec": {
+    "archive_record": "subspace_mvtec_evidence_20261103_231655_833/summary.json",
+    "sha256": "ed4516217e54ce8f6bc638cb01c444fc54406baa1a2f1cb52c64ead59b4f43e7"
+  },
+  "pca_visa": {
+    "archive_record": "subspace_visa_evidence_20261104_122839_523/summary.json",
+    "sha256": "48354f74260cb7919abef5064b85160ef87c645b52dc9b0ac8214a146abbc225"
+  },
+  "fixed_layer_aggregates": {
+    "archive_record": "verified_tables_20261028/verified_statistics.json",
+    "sha256": "969fcf33944d77399cf14382ebc1a8db6a3ff51f4894bf67ca0bb82546bfcec9"
+  },
+  "response": {
+    "archive_record": "weight_response_evidence_v2/summary.json",
+    "sha256": "be925379dbf35a125d8f4dc1396f654b299d7c43637f07a7b5d7d5743c1a67ee"
+  },
+  "uncertainty": {
+    "archive_record": "weight_uncertainty_20261104_174645_745904/summary.json",
+    "sha256": "710d408d7e3a11f3b6302eb36e3fa5e962a624c5bd010f03ccc2544a1c53903c"
+  },
+  "cpu_timing": {
+    "archive_record": "weight_cost_evidence_20261103_114747_736/summary.json",
+    "sha256": "eb1db2c9af732bfc5a50602e91a34c922dcd16ab8b6128f99749a84dbc2e01d3"
+  },
+  "common_crop_config": {
+    "archive_record": "visionad_roi_evidence_20261104_212219/plan.json",
+    "sha256": "ddc0884d89ce9252d6889c48330b0d10742d96ee1817b005b8a0598897184135"
+  }
+}
