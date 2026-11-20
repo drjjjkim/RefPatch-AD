@@ -98,3 +98,7 @@ For MVTec AD toothbrush, original reference 0, all 42 PCA query masks matched th
 ## Supporting experiments
 
 See [Supporting experiments](SUPPORTING_EXPERIMENTS.md) for the paper-to-code mapping, control settings, and the boundaries of the verification. Use `python supporting_results.py` to reaggregate the recorded control metrics and timing observations and recalculate the category bootstrap.
+
+## License
+
+The original RefPatch-AD code is licensed under the [Apache License, Version 2.0](LICENSE). Third-party code, datasets, and model weights are governed by their respective terms.
